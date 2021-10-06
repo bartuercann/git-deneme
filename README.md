@@ -1,0 +1,3 @@
+# git-deneme
+
+This repo was used to learn git and practising it, special thanks to amigoscode...
